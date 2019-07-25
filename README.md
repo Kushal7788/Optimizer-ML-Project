@@ -1,6 +1,6 @@
 # This is a project of different types of optimizers
 
-#### This prpoject takes a toy dataset and applies different Optimizers to converge the model
+#### This project takes a toy dataset and applies different Optimizers to converge the model
 
 #### A graph is plotted of cost function against hyper-parameter to show the effects of different optimizers on learning rate of the model
 
