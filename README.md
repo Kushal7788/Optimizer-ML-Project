@@ -1,10 +1,10 @@
-                    # This is a project of different types of optimizers
+# This is a project of different types of optimizers
 
-This prpoject takes a toy dataset and applies different Optimizers to converge the model
+#### This prpoject takes a toy dataset and applies different Optimizers to converge the model
 
-A graph is plotted of cost function against hyper-parameter to show the effects of different optimizers on learning rate of the model
+#### A graph is plotted of cost function against hyper-parameter to show the effects of different optimizers on learning rate of the model
 
-There are 8 different Optimzers used and each of them is written in a seperated Function
+#### There are 8 different Optimzers used and each of them is written in a seperated Function
 
 1)Batch Gradient Descent
 
